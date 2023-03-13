@@ -13,6 +13,9 @@ The following datasets have been used in this project:
 Each dataset is visualized as a choropleth map that colors the countries or US states based on the values in the dataset. The maps are interactive and allow users to zoom in and out, hover over individual regions to see detailed information, and select different color scales and legends to gain a deeper understanding of the data.
 
 ![US_Agri_Exp_2014](https://github.com/khalidryder777/Geographical-Plotting-Plotly/blob/main/Outputs/US_Agri_Exp_2014.png)
+![2014_Global_GDP](https://github.com/khalidryder777/Geographical-Plotting-Plotly/blob/main/Outputs/2014_Global_GDP.png)
+![Global_Power_Consumption_2014](https://github.com/khalidryder777/Geographical-Plotting-Plotly/blob/main/Outputs/Global_Power_Consumption_2014.png)
+![Voting_Age_Population_2012](https://github.com/khalidryder777/Geographical-Plotting-Plotly/blob/main/Outputs/Voting_Age_Population_2012.png)
 
 # Technical Details
 The maps were created using the Plotly Python library, which provides a simple and powerful way to create interactive visualizations. The data was cleaned and preprocessed using Pandas and NumPy libraries. The project is structured as a Jupyter notebook and the code is fully documented for easy modification and reuse.
