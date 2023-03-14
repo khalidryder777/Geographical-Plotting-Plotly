@@ -4,9 +4,9 @@ This repository contains a collection of interactive choropleth maps that visual
 # Datasets
 The following datasets have been used in this project:
 
-1. 2014 Global GDP
-2. Global Power Consumption 2014
-3. US Agriculture Exports 2014
+1. US Agriculture Exports 2014
+2. 2014 Global GDP
+3. Global Power Consumption 2014
 4. Voting Age Population 2012
 
 # Interactive Choropleth Maps
